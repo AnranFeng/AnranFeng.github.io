@@ -1,0 +1,205 @@
+{
+	"title": {
+            "background": {
+                "opacity":"50",
+                "url": "bg.gif"
+            },
+            "text": {
+                "headline": "A Brief History of Potato Chips",
+                "text":     "I love potato chips, maybe you also do.<br> But you may not believe that potato chip was created completely by accident. <br> Here is the history of this tasty snack. <br>Have fun!"
+            }
+    },
+
+    "events": [
+        {
+            "start_date": {
+                "year":			"1853"
+            },
+
+            "media": {
+                "caption": "A historical story about the invention of Potato Chips",
+                "credit": "AM Crew (Youtube)",
+                "url": "https://www.youtube.com/watch?v=tXYdqy5N7YQ"
+            },
+            "background": {
+				"opacity":"50",
+                "url": "https://imgs.6sqft.com/wp-content/uploads/2016/08/24113418/Carey-Moons-Lakehouse-1896.jpg"
+            },
+            "text": {
+                "headline": "An Accidental Hit",
+                "text": "The man who invented potato chips was <strong>George Crum</strong>, who was both African-American and Native American, and a chef employed as a chef at Moon Lake Lodge --an elegant resort in Saratoga Springs, New York. And getting complaints from a customer about thick, soggy fried potatoes, Crum wanted to teach the patron a lesson, so he sliced a new batch of potatoes as thin as he possibly could, and then fried them until they were hard and crunchy. Finally, to top them off, he added a generous heaping of salt. To Crum's surprise, the dish ended up being a hit with the patron and a new snack was born."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"1860"
+            },
+            "end_date": {
+                "year":         "1890"
+            },
+            "media": {
+                "caption": "New York State historic marker: Crum’s Place.",
+                "credit":"Googel Map",
+                "url": "https://www.google.com.hk/maps/place/793+Malta+Ave,+Ballston+Spa,+NY+12020%E7%BE%8E%E5%9B%BD/@43.0143719,-73.7774132,313m/data=!3m1!1e3!4m5!3m4!1s0x89de3936a545bb8b:0xaa3c3e830433e757!8m2!3d43.0146692!4d-73.7764359"
+            },
+            "background": {
+				"opacity":"50",
+                "url": "https://c3.staticflickr.com/9/8730/28444067786_42976411b7_c.jpg"
+            },
+            "text": {
+                "headline": "Crum's Place",
+                "text": "Crum found success with his invention and even opened his own restaurant in 1860, called <strong>'Crum's House.'</strong> Served on each table was of course a basket of potato chips --which was a hit with his upscale clientele.  But in those days, people of color were not allowed to take out patents on their inventions and Crum never attempted to patent potato chips. The snack was eventually mass-produced sold in bag without giving him any credit. "
+            }
+        },
+
+        {
+            "start_date": {
+                "year":			"1895"
+            },
+            
+            "media": {
+                "caption": "A replica of the original Moon Brand Chips packaging",
+                "credit":"via <a href='http://nomnompaleo.com/post/41605570388/whole30-day-27-paleo-chips-including-a-new'>nom nom paleo</a>",
+                "url": "chips.png"
+            },
+            "background": {
+                "opacity":"50",
+                "url": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAbvAAAAJDI2NTE1MTIyLWQ1MmItNGIyMS05OWU1LWI2YmNlMDU4M2E4NQ.jpg"
+            },
+            "text": {
+                "headline": "Sold in Stores",
+                "text": "The idea of making them as a food item for sale in grocery stores came to many people at around the same time, but perhaps the first was <strong>William Tappendon</strong> of Cleveland, OH, in 1895.   He began making chips in his kitchen and delivering to neighborhood stores, later converting a barn in the rear of his house into “one of the first potato chip factories” in the country."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"1920"
+            },
+            "end_date": {
+                "year":         "1929"
+            },
+            "media": {
+                "caption": "Acme 'Eclipse' potato peeling machine, 1923",
+                "credit":"Via National Federation of Fish Friers",
+                "url": "http://www.federationoffishfriers.co.uk/userdata/PRODPIC-706.jpg"
+            },
+            "background": {
+				"opacity":"50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Women_working_at_the_Williams_Potato_Chip_Company_%283724241084%29.jpg/1600px-Women_working_at_the_Williams_Potato_Chip_Company_%283724241084%29.jpg"
+            },
+            "text": {
+                "headline": "Liberate the hands!",
+                "text": "At that time, potatoes were tediously peeled and sliced by hand. It was the invention of <strong>the mechanical potato peeler</strong> in the 1920s that paved the way for potato chips to soar from a small specialty item to a top-selling snack food. For several decades after their creation, potato chips were largely a Northern dinner dish."
+            }
+        },
+        {
+            "start_date": {
+                "year":         "1921"
+            },
+            "media": {
+                "credit": "UTZ Quality Foods(wikipedia)",
+                "url": "https://en.wikipedia.org/wiki/Utz_Quality_Foods"
+            },
+            "background": {
+                "opacity":"50",
+                "url": "https://baltimorefoodchronicle.files.wordpress.com/2015/04/utz-20.jpg"
+            },
+            "text": {
+                "headline": "The Birth of UTZ ",
+                "text": "In 1921, William and Sallie Utz started the Hanover Home Brand Potato Chips in Hanover, Pennsylvania. Salie Utz used her knowledge of good Pennsylvania Dutch cooking to make the chips in a small summer house behind their home. The hand-operated equipment Salie used made about fifty pounds of potato chips per hour. While Salie stayed home making chips, Bill delivered them to 'mom and pop' grocery stores and farmer's markets  "
+            }
+        },
+        {
+            "start_date": {
+                "year":			"1926"
+            },
+            "media": {
+                "caption": "Laura Scudder's Potato Chips Commercial (1950s) and you can see the wax paper bag from this video.",
+                 "credit": "Throwback (Youtube)",
+                "url": "https://www.youtube.com/watch?v=EYzbv8fDaAo"
+            },
+            "background": {
+                "opacity":"50",
+                "url": "https://i.pinimg.com/736x/69/76/c2/6976c21ab39aef59013b5e77c9fab914--potato-chips-school-days.jpg"
+            },
+            "text": {
+                "headline": "Save Chips for Tomorrow",
+                "text": "Out in Monterey Park, California, the Scudders company started making potato chips in 1926. <strong>Laura Scudder</strong> is credited with developing the wax paper bag for potato chips which made a wider distribution possible because of its preserving properties.  Prior to this bag potato chips were dispensed in bulk from barrels or glass display cases. "
+            }
+        },
+        {
+            "start_date": {
+                "year":			"1932"
+            },
+            "media": {
+                "caption": "History of Frito LAY",
+                "credit": "Throwback (Youtube)",
+                "url": "https://www.youtube.com/watch?v=IaNulnMh2nc"
+            },
+            "background": {
+                "opacity":"50",
+                "url": "https://anywho.files.wordpress.com/2010/06/lays-billboard-590.jpg"
+            },
+            "text": {
+                "headline": "Lay's Start",
+                "text": "In 1932, salesman Herman Lay opened a snack food operation; and, in 1938, he purchased 'Barrett Food Company', renaming it 'H.W. Lay Lingo & Company.' Lay peddled potato chips to Southern grocers out of the trunk of his car, building a business and a name that would become synonymous with the thin, salty snack. Lay's potato chips became the first successfully marketed national brand."
+            }
+        },
+        {
+            "start_date": {
+                "year":         "1954"
+            },
+            "media": {
+                "caption": "Loading Tayto Crisps at Tayto, Rathmines.1958",
+                "credit": "lensmen",
+                "url": "Tayto.jpg"
+            },
+            "background": {
+                "opacity":"50",
+                "url": "https://clickamericana.com/wp-content/uploads/potato-chips-in-cellophane-1955-919x520.jpg"
+            },
+            "text": {
+                "headline": "Do us a flavour",
+                "text": " Potato chips were sold with no flavoring but salty. When it was 1954, in an Irish crisps company named Tayto, Joseph “Spud” Murphy and his employee Seamus Burke produced the world's first seasoned chips: Cheese & Onion and Salt & Vinegar. Since then, different kinds of flavour were developed. While the first flavored chips in the United States, barbecue flavor."
+            }
+        },
+        {
+            "start_date": {
+                "year":         "2000"
+            },
+            "media": {
+                "caption": "Just give me some potato chips~",
+                "credit": "The Grandsons Jr ",
+                "url": "https://soundcloud.com/the-grandsons-jr/03-potato-chips"
+            },
+            "background": {
+                
+                "opacity":"50",
+                "url": "https://cdn-jpg2.thedailymeal.com/sites/default/files/styles/hero_image_breakpoints_theme_tdmr_lg_1x/public/story/Main-potato%20chips-Kristen%20Hom_0.jpg?itok=ZD8PZDhi&timestamp=1457702926"
+            },
+            "text": {
+                "headline": "Chips Today",
+                "text": "Potato chips are a predominant part of the snack food and convenience food market in Western countries. The global potato chip market generated total revenues of US$16.49 billion in 2005. This accounted for 35.5% of the total savory snacks market in that year ($46.1 billion)."
+            }
+        },
+        {
+            "start_date": {
+                "year":         "2010"
+            },
+
+            "background": {
+                "opacity":"50",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Potato-Chips.jpg/1200px-Potato-Chips.jpg"
+            },
+            "text": {
+                "headline": "We Love #PotatoChips ",
+                "text": ""
+            }
+        }
+        
+    ]
+}
+
+
+            
+          
